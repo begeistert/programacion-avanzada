@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Hora
+comment1.params=
+comment1.target=Hora()
+comment10.params=
+comment10.target=byte\ getSegundos()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=_Horas\ _Minutos\ _Segundos
+comment2.target=Hora(byte,\ byte,\ byte)
+comment3.params=_Horas\ _Minutos
+comment3.target=Hora(byte,\ byte)
+comment4.params=_Horas
+comment4.target=Hora(byte)
+comment5.params=_Horas
+comment5.target=void\ setHora(byte)
+comment6.params=_Minutos
+comment6.target=void\ setMinutos(byte)
+comment7.params=_Segundos
+comment7.target=void\ setSec(byte)
+comment8.params=
+comment8.target=byte\ getHoras()
+comment9.params=
+comment9.target=byte\ getMinutos()
+numComments=12

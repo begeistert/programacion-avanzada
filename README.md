@@ -5,7 +5,7 @@
     <img src="/img/programacion.png" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">Programación avanzada</h3>
+  <h3 align="center">Programación Avanzada</h3>
 
   <p align="center">
     Actividades de la materia "Programación Avanzada"
